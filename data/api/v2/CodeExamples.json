@@ -1333,7 +1333,7 @@
   ],
   "CreateServiceAccount": [
     {
-      "group": "users",
+      "group": "service_accounts",
       "suffix": "",
       "description": "Create a service account returns \"OK\" response"
     }
